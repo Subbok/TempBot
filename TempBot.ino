@@ -48,12 +48,6 @@ void loop()
     float hic = dht.computeHeatIndex(t, h, false);
 
     displayOled(t, h, hic);
-
-    // if (t > 25) {
-    //     Array();
-    // } else {
-    //     displayOled(t, h, hic);
-    // }
 }
 
 void displayOled(float t, float h, float hic)

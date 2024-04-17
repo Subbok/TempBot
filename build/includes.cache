@@ -1,0 +1,117 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.15\\cores\\esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.15\\variants\\XIAO_ESP32C3"
+  },
+  {
+    "Sourcefile": "D:\\Arduino\\TempBot\\build\\sketch\\TempBot.ino.cpp",
+    "Include": "Adafruit_GFX.h",
+    "Includepath": "C:\\Users\\Tom\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library"
+  },
+  {
+    "Sourcefile": "D:\\Arduino\\TempBot\\build\\sketch\\TempBot.ino.cpp",
+    "Include": "Adafruit_I2CDevice.h",
+    "Includepath": "C:\\Users\\Tom\\Documents\\Arduino\\libraries\\Adafruit_BusIO"
+  },
+  {
+    "Sourcefile": "D:\\Arduino\\TempBot\\build\\sketch\\TempBot.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.15\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "D:\\Arduino\\TempBot\\build\\sketch\\TempBot.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.15\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "D:\\Arduino\\TempBot\\build\\sketch\\TempBot.ino.cpp",
+    "Include": "Adafruit_SSD1306.h",
+    "Includepath": "C:\\Users\\Tom\\Documents\\Arduino\\libraries\\Adafruit_SSD1306"
+  },
+  {
+    "Sourcefile": "D:\\Arduino\\TempBot\\build\\sketch\\TempBot.ino.cpp",
+    "Include": "DHT.h",
+    "Includepath": "C:\\Users\\Tom\\Documents\\Arduino\\libraries\\DHT_sensor_library"
+  },
+  {
+    "Sourcefile": "D:\\Arduino\\TempBot\\build\\sketch\\TempBot.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_GFX.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_GrayOLED.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_SPITFT.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\glcdfont.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_BusIO_Register.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_I2CDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_SPIDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.15\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.15\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\Documents\\Arduino\\libraries\\Adafruit_SSD1306\\Adafruit_SSD1306.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\Documents\\Arduino\\libraries\\DHT_sensor_library\\DHT.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\Documents\\Arduino\\libraries\\DHT_sensor_library\\DHT_U.cpp",
+    "Include": "Adafruit_Sensor.h",
+    "Includepath": "C:\\Users\\Tom\\Documents\\Arduino\\libraries\\Adafruit_Unified_Sensor"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\Documents\\Arduino\\libraries\\DHT_sensor_library\\DHT_U.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\Documents\\Arduino\\libraries\\Adafruit_Unified_Sensor\\Adafruit_Sensor.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
