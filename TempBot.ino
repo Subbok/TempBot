@@ -3,6 +3,7 @@
 #include <DHT.h>
 #include <Wire.h>
 #include <SPI.h>
+// #include "Array.h"
 
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64
@@ -47,8 +48,13 @@ void loop()
     float hic = dht.computeHeatIndex(t, h, false);
 
     displayOled(t, h, hic);
-}
 
+    // if (t > 25) {
+    //     Array();
+    // } else {
+    //     displayOled(t, h, hic);
+    // }
+}
 
 void displayOled(float t, float h, float hic)
 {
@@ -56,9 +62,12 @@ void displayOled(float t, float h, float hic)
     String h_str = String(h, 1);
     String hic_str = String(hic, 1);
 
-    if (t_str.endsWith(".0")) t_str.remove(t_str.length() - 2, 2);
-    if (h_str.endsWith(".0")) h_str.remove(h_str.length() - 2, 2);
-    if (hic_str.endsWith(".0")) hic_str.remove(hic_str.length() - 2, 2);
+    if (t_str.endsWith(".0"))
+        t_str.remove(t_str.length() - 2, 2);
+    if (h_str.endsWith(".0"))
+        h_str.remove(h_str.length() - 2, 2);
+    if (hic_str.endsWith(".0"))
+        hic_str.remove(hic_str.length() - 2, 2);
 
     display.clearDisplay();
     display.setTextColor(WHITE);
@@ -72,7 +81,7 @@ void displayOled(float t, float h, float hic)
     display.print("Temperature:");
     display.setCursor(80, 30);
     display.print(t_str);
-    display.print((char)247); 
+    display.print((char)247);
     display.print("C");
     display.setCursor(5, 45);
     display.print("Heat Index:");
@@ -81,5 +90,4 @@ void displayOled(float t, float h, float hic)
     display.print((char)247);
     display.print("C");
     display.display();
-    
 }
