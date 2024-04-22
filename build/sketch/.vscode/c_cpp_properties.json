@@ -223,6 +223,8 @@
                 "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.15\\tools\\sdk\\esp32c3\\qio_qspi\\include",
                 "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.15\\cores\\esp32",
                 "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.15\\variants\\XIAO_ESP32C3",
+                "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.15\\libraries\\WiFi\\src",
+                "C:\\Users\\Tom\\Documents\\Arduino\\libraries\\NTPClient",
                 "C:\\Users\\Tom\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
                 "C:\\Users\\Tom\\Documents\\Arduino\\libraries\\Adafruit_BusIO",
                 "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.15\\libraries\\Wire\\src",

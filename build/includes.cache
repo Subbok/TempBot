@@ -11,6 +11,16 @@
   },
   {
     "Sourcefile": "D:\\Arduino\\TempBot\\build\\sketch\\TempBot.ino.cpp",
+    "Include": "WiFi.h",
+    "Includepath": "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.15\\libraries\\WiFi\\src"
+  },
+  {
+    "Sourcefile": "D:\\Arduino\\TempBot\\build\\sketch\\TempBot.ino.cpp",
+    "Include": "NTPClient.h",
+    "Includepath": "C:\\Users\\Tom\\Documents\\Arduino\\libraries\\NTPClient"
+  },
+  {
+    "Sourcefile": "D:\\Arduino\\TempBot\\build\\sketch\\TempBot.ino.cpp",
     "Include": "Adafruit_GFX.h",
     "Includepath": "C:\\Users\\Tom\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library"
   },
@@ -41,6 +51,56 @@
   },
   {
     "Sourcefile": "D:\\Arduino\\TempBot\\build\\sketch\\TempBot.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.15\\libraries\\WiFi\\src\\WiFi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.15\\libraries\\WiFi\\src\\WiFiAP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.15\\libraries\\WiFi\\src\\WiFiClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.15\\libraries\\WiFi\\src\\WiFiGeneric.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.15\\libraries\\WiFi\\src\\WiFiMulti.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.15\\libraries\\WiFi\\src\\WiFiSTA.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.15\\libraries\\WiFi\\src\\WiFiScan.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.15\\libraries\\WiFi\\src\\WiFiServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.15\\libraries\\WiFi\\src\\WiFiUdp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Tom\\Documents\\Arduino\\libraries\\NTPClient\\NTPClient.cpp",
     "Include": "",
     "Includepath": null
   },
